@@ -54,6 +54,13 @@ const images = [
     alt: 'Gmail',
   },
   {
+    href: 'https://x.com/ryosuke_tech',
+    target: '_blank',
+    rel: '',
+    src: '/images/x.svg',
+    alt: 'X',
+  },
+  {
     href: 'https://github.com/ryosuke1256',
     target: '_blank',
     rel: 'noopener noreferrer',
